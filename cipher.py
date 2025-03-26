@@ -7,7 +7,7 @@ def main():
     # infinite loop to get the mode
     while True:
         # getting the mode
-        mode = input('What operation do you want to perform: ').strip().lower()
+        mode = input('What operation do you want to perform (encrpytion or decryption): ').strip().lower()
         # checking mode
         if mode in ['encryption', 'decryption']:
             break
