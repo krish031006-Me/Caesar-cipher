@@ -19,7 +19,7 @@ Command-line interface (CLI)
 
 Clone the repository:
 
-git clone https://github.com/yourusername/Caesar-Cipher.git
+git clone https://github.com/yourusername/Caesar-cipher.git
 cd Caesar-Cipher
 
 Run the program:
