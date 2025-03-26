@@ -1,6 +1,5 @@
 # Caesar-cipher
 An implementation of Caesar cipher having two modes - encrypt, decrypt
-Caesar Cipher
 
 A simple Caesar Cipher encryption and decryption tool built using Python. This program allows users to encode and decode messages using the classic shift cipher technique.
 
